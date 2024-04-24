@@ -10,6 +10,41 @@
 - ❤️</> 🧑‍💻 **Problem Solving** 🧠 🎶
 
 - 📫 How to reach me **tarunchowdary29@gmail.com**
+
+<br><br><br><br><br>
+## 🚀 My Skill Set 🤓👩‍💻
+<table><tr><td valign="top" width="33%">
+
+### Frontend | Framework AND Tools 
+<div align="center">  
+<img style="margin: 15px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" height="50" /> 
+<img style="margin: 15px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" height="50" />  
+<img style="margin: 15px" src="https://blog.paperspace.com/content/images/2019/11/flasklogo.jpg" alt="flask" title="flask" height="50" /> 
+<img style="margin: 15px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" height="50" /> 
+<img style="margin: 15px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="50" /> 
+ 
+</div></td><td valign="top" width="33%">
+
+### Programming Languages
+<div align="center">  
+<img style="margin: 15px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" height="50" />
+<img style="margin: 15px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" height="50" /> 
+<img style="margin: 15px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" height="50" /> 
+<img style="margin: 15px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" height="50" /> 
+<img style="margin: 15px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" height="50" />
+</div></td><td valign="top" width="33%">
+
+### Libraries 
+<div align="center">    
+<img style="margin: 15px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" title="pandas" height="50" />
+<img style="margin: 15px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" height="50" /> 
+<img style="margin: 15px" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" title="seaborn" height="50" />
+<img style="margin: 15px" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" height="50" />
+<img style="margin: 15px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/240px-Keras_logo.svg.png" alt="keras" title="keras" height="50" />    
+<img style="margin: 15px" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" height="50" /> 
+   
+</div></td></tr></table>  
+
 <br><br><be>
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px"> Connect with me  
 <div align="center">
