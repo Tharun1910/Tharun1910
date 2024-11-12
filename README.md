@@ -5,7 +5,7 @@
 
 - 🔭 I'm Interested in **Deep Learning,Computer Vision,Machine Learning.**
 
-- 😶‍🌫️ I’m Currently pursuing my B.Tech from GMRIT.
+- 😶‍🌫️ I’m Currently pursuing my Masters in Computer Science at University of South Dakota.
 
 - ❤️</> 🧑‍💻 **Problem Solving** 🧠 🎶
 
